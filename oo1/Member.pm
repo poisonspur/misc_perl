@@ -2,8 +2,6 @@ package Member;
 
 use strict;
 
-use lib qw( /amiperl);
-
 use Data::Dumper;
 use Table;
 
