@@ -7,7 +7,7 @@ use lib qw( /amiperl);
 use Data::Dumper;
 use Table;
 
-our @ISA = qw(AMIDB::Table);
+our @ISA = qw(Table);
 
 # default constructor (email)
 sub new {
